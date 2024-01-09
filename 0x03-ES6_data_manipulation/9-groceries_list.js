@@ -12,3 +12,4 @@ export default function groceriesList() {
     mp.set(el[0], el[1]);
   }
   return mp;
+}
